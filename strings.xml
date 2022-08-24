@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="place_image">place thumbnail image</string>
+    <string name="place_name">place name</string>
+    <string name="discription">Discription :</string>
+
+    <string-array name="nameOfMalls">
+        <item>Phoenix Mall</item>
+        <item>VR Mall</item>
+        <item>Spencer Plaza</item>
+        <item>Express Avenue</item>
+        <item>Gold-Souk</item>
+    </string-array>
+    <string-array name="descriptionOfMalls">
+        <item>Located in the Velachery suburb of the city, Phoenix Marketcity is every shopaholic’s dream come true. Spread over five levels including the lower ground and the ground, the mall promises you an end-to-end shopping experience, ranging from clothing and accessories to electronics and grocery, and everything in between. Hosting a plethora of high-end brands like Lifestyle, Allen Solly, Croma, Poorvika, Steve Maden, Globus, Aldo, Adidas, and Manchester United, to name a few, this mall magnifique is sure to excite the shopaholic in you on any given weekday and two times more on weekends.</item>
+        <item>Virtuous Retail Mall, popularly known as VR Mall, is where the old meets the new in more ways than what meets the eye. The architectural beauty of this mall is so regal and Instagram-worthy, to say the least. The façade of the mall is built taking inspiration from traditional temple towers and multi-colored Madras checks. With periodic festoons from the bygone eras, the place makes you wonder if you have entered the sets of the epic blockbuster Bahubali.</item>
+        <item>Located in the busiest area of the city i.e. Anna Salai is one of the oldest yet most visited malls of all times, the Spencer Plaza. Renovated in 1985, Spencer has eight floors of retailing splendor. Everything from apparels to aesthetic equipment can be found here. Music, food, health products, home décor, jewelry, confectionaries, footwear, gemstones, banking solutions, herbal products, toys, tea, porcelain, transportation services, travel solutions, you name it and Spencer Plaza has it all. Some of the popular brands housed within the plaza include Westside, Landmark, Adidas, Titan, Pantaloons, and McDonald’s, to mention a few. The first floor (third phase) of the building also houses the Sri Lanka Trade Center where you can buy Ceylon goodies, including leather products, gems, and Ceylon tea. Do not miss admiring the giant glass dome above the mall, it is just so worth it!</item>
+        <item>That’s not all! Express Avenue, Chennai has everything to redefine your idea of fun and entertainment. The eight-screen multiplex at Escape Cinemas can accommodate 1600 movie-buffs while the entertainment area including the gaming arcade serves as every gamer’s paradise. The food court at the mall, called EA Garden, has food chains like KFC, Pizza Hut, Dominos, etc. dishing out their signature items. It houses the best of world cuisines from Italy, Mexico, China, North India, South India, and America. If you want a different experience altogether, consider dining at Dialogue in the Dark, where dishes are served to you in pitch darkness and yes, you heard it right! Boredom becomes a thing of the past at Express Avenue Mall, where the fun and the shopping run never end.</item>
+        <item>We always keep the best bit for the last! If you love gold jewelry or are looking for the best place to grab some irresistible deals on trinkets, then this should be your one-stop shop or rather a mall in Chennai. With five levels of retail therapy, this mall has the best of designs from the latest collections at the most competitive prices. The mall also houses branded stores for watches, footwear, men’s clothing, and travel equipment just so that men are not left behind on the shopping and trend aspects. Though the distance from the city center may concern you, great rates and even greater options will make your woes fade away, gold lovers!</item>
+    </string-array>
+
+    <string-array name="nameOfFood">
+        <item>Biryani</item>
+        <item>Pani Puri</item>
+        <item>Dosa</item>
+        <item>Idli</item>
+        <item>Atho</item>
+    </string-array>
+    <string-array name="descriptionOfFood">
+        <item>city might not have its own version of biryani, but there are at least two towns in Tamil Nadu - Ambur and Dindigul, with world-famous biryanis. The Dindigul version cooked with the small grain Seeraga Samba rice is trending in Chennai but it\'s the Ambur version cooked at Muslim weddings that is still the gold standard. Chennai\'s iconic Buhari Hotel might be better known outside the city for inventing Chicken 65 but it\'s thebiryani that rules the roost here.</item>
+        <item>Originally a Burmese dish, Atho is a popular street food in Chennai. It consists of noodles served with vegetables. Head over to the Burma Bazaar or Beach Road where lines of roadside stalls sell this unique street food. Atho Man, a food joint on G.A. Road, serves various types of Athos and is worth a shot.</item>
+        <item>Be it plain chanay, murgh (chicken) chanay or mutton chanay, this place in Shadbagh called Jeela Chanay Wala takes the crown, quite honestly. The flavors and the texture of the chanay and masala give other chanay walas a run for their money.</item>
+        <item>Being the staple food of Tamil Nadu, Idli is readily available on almost every street corner. It is made from rice and is usually served with sambar and coconut chutney. Murugan Idly Shop is a popular joint in Chennai which serves their idlis with a wide variety of chutneys. Although the process of making these is quite easy, however, not everyone can get them to be fluffy and as light as air.</item>
+        <item>Originally a Burmese dish, Atho is a popular street food in Chennai. It consists of noodles served with vegetables. Head over to the Burma Bazaar or Beach Road where lines of roadside stalls sell this unique street food. Atho Man, a food joint on G.A. Road, serves various types of Athos and is worth a shot.</item>
+    </string-array>
+
+    <string-array name="NameOfHotels">
+        <item>Lemon Tree</item>
+        <item>Marina Inn</item>
+        <item>Belstead</item>
+        <item>The Park</item>
+        <item>GRT</item>
+    </string-array>
+    <string-array name="descriptionOfHotels">
+        <item>Grand by name and service, The Lemon Hotel provides Deluxe Rooms and Luxury suites unparalleled in market. Opened in 2016, the property is one of the latest additions to the Lahore Skyline. Business and leisure travelers alike appreciate the central location, right on the Mall Road, the heart of the city’s business and food district.</item>
+        <item>Grand by name and service, The Marina Inn Hotel provides Deluxe Rooms and Luxury suites unparalleled in market. Opened in 2016, the property is one of the latest additions to the Lahore Skyline. Business and leisure travelers alike appreciate the central location, right on the Mall Road, the heart of the city’s business and food district.</item>
+        <item>Grand by name and service, Belstead Hotel provides Deluxe Rooms and Luxury suites unparalleled in market. Opened in 2016, the property is one of the latest additions to the Chennai Skyline. Business and leisure travelers alike appreciate the central location, right on the Mall Road, the heart of the city’s business and food district.</item>
+        <item>Grand by name and service, The Park Hotel provides Deluxe Rooms and Luxury suites unparalleled in market. Opened in 2016, the property is one of the latest additions to the Lahore Skyline. Business and leisure travelers alike appreciate the central location, right on the Mall Road, the heart of the city’s business and food district.</item>
+        <item>Grand by name and service, Grand Chennai by GRT hotel provides Deluxe Rooms and Luxury suites unparalleled in market. Opened in 2016, the property is one of the latest additions to the Lahore Skyline. Business and leisure travelers alike appreciate the central location, right on the Mall Road, the heart of the city’s business and food district.</item>
+    </string-array>
+
+    <string-array name="NameOfMonuments">
+        <item>St George Fort</item>
+        <item>Government Mueseum</item>
+        <item>Valluvar Kottam</item>
+        <item>Alamparai Fort</item>
+        <item>Santhome Church</item>
+    </string-array>
+    <string-array name="descriptionOfMonuments">
+        <item>Fort St George, constructed in 1640, is famous for being the first establishment made by the British in India. Built to serve the purpose of a trading post, this fort soon developed into a full-fledged city, divided into two parts: one for the Europeans and other for the dock workers. With time, the British built many iconic structures within the fort, such as the splendid St. Mary’s Church, Wellesley House (a banquet hall), the Fort Museum and a Flag Staff measuring approximately 150 ft. Another noteworthy masterpiece to witness here is the statue of Lord Cornwallis (14.5 ft), which was shipped from Britain and has been installed in the museum. Today, the Archaeological Survey of India takes care of this heritage property and is also used as an Indian Army base.</item>
+        <item>India’s second oldest museum – The Government Museum in Chennai was started in 1851, on the first floor of Fort St. George College with Madras Literary Society’s approximately 1100 geological specimens. Spread over an area of 16.25 acres, the campus of the museum comprises six separate buildings, namely National Art Gallery, Children’s Museum, Contemporary Art Gallery, Bronze Gallery, Front Building and Main Building. Also known as the Egmore Museum or Madras Museum, it houses a rich collection of bronze artifacts, beautiful paintings of Raja Ravi Varma, British modern art and historical sculptures and much more. We suggest that you spend an entire day at</item>
+        <item>An important historical attraction in the city is Valluvar Kottam, built in memory of the great Tamil philosopher and poet, Thiruvalluvar, who created Thirukkurals, which is considered among the greatest works of Tamil literature. This temple chariot shaped monument was built by M Karunanidhi in the 1970s, who was then serving as the Chief Minister of the state. The architecture of Valluvar Kottam is simply magnificent, with innovative designs and layouts. Locals say that the beauty of this memorial is best witnessed at time of dawn and dusk. Besides being a popular tourist attraction, Valluvar Kottam also hosts several events and exhibitions.</item>
+        <item>The Alamparai Fort, built in the 18th century by the Mughals, once served as an important seaport being located on the shores of the Bay of Bengal. The first Mughal to control this fort was Doste Ali Khan, who was the Nawab of Arcot. Later, the fort came into the possession of the French, who then lost it to the British during the Carnatic war. It was during this war that the fort was heavily damaged while the tsunami of 2004 further deteriorated its condition. Today the fort is considered as a heritage site and a lot of visitors come here to explore its ruins. You will certainly love the view of the Bay</item>
+        <item>The Santhome Church was built in the 16th century by the Portuguese explorers. Much later in 1956, it was honored by Pope Pius XII as a cathedral. The church building we see today is the one that British made on the ruins of the previous church in the 19th century. This cathedral has a Neo-Gothic style of architecture. The 183 ft spire that you will definitely notice while at the site was built in 1894. There is a museum adjacent to the cathedral, and it houses several artifacts related to St. Thomas, after whom this place has been named.</item>
+    </string-array>
+
+    <string-array name="tabLayoutTitles">
+        <item>Food</item>
+        <item>Malls</item>
+        <item>Hotels</item>
+        <item>Historical Places</item>
+    </string-array>
+
+</resources>
